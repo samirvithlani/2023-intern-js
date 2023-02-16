@@ -1,0 +1,59 @@
+/html
+
+what is java script ??
+
+DOM :- Document Object Model
+
+window
+
+use:
+
+3 ways :
+
+1).js file
+2)script
+3)inline js
+
+--->java --->
+
+compiler interpreter
+client side ....
+
+java script engines:
+
+netscape ---> spider monkey
+google chrome --> v8
+safari
+edge
+
+ecma script es6 es7
+
+HTML --
+
+java script is dynamically typed language:
+
+12
+"ama"
+
+var is having global scope 
+let is having block scope 
+const is having block scope
+
+
+
+operators
+
+logical operator && ||| |
+arithmetic operator + - * / %
+increment operator ++ --
+asignment operator : = += -= *= /=
+realation operator : > < >= <= == === != !==
+ternary operator : ?:
+
+
+
+
+
+
+
+
