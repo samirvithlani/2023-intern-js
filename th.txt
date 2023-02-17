@@ -52,6 +52,28 @@ ternary operator : ?:
 
 
 
+conditional statements / deciosion making statements
+if else
+loops
+switch case..
+
+
+loops 
+
+entry controlled loop
+    for loop while
+exit controlled loop
+        do while    
+
+
+for(init part;condition part;increment/decrement part){
+    //body
+}
+
+while(conditon){
+    //body
+    //increment/decrement
+}
 
 
 

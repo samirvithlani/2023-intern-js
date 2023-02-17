@@ -1,0 +1,19 @@
+loops
+
+print table of given number 5 * 1 = 5
+                            5 * 2 = 10
+
+
+factorial of given number 5! = 5 * 4 * 3 * 2 * 1 = 120 for
+
+base and power
+
+2 power 5 = 2 * 2 * 2 * 2 * 2 = 32 
+
+                      3    3      3
+  armstrong no = 153  1   + 5  +3     = 1 + 125 + 27 = 153
+
+
+reverse no ===> 123  321
+
+palindrome no ===> 121  121
