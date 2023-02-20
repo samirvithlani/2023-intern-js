@@ -1,0 +1,18 @@
+boiler plate code: -->
+
+pre define  
+useer define
+
+with return type with argument
+with return type without argument
+without return type with argument
+with return type without argument
+
+
+
+
+function keyword
+
+arrow function      --> version es6
+
+

@@ -17,3 +17,6 @@ base and power
 reverse no ===> 123  321
 
 palindrome no ===> 121  121
+
+
+create 5 more json to understand json...
