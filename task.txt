@@ -20,3 +20,129 @@ palindrome no ===> 121  121
 
 
 create 5 more json to understand json...
+
+
+
+
+filter:
+
+var data = {
+  countries:[
+    {
+    name: "India",
+    states:[
+      {
+        name:"Maharashtra",
+        cities:[
+          {
+            name:"Pune",
+            population: 1000000
+          },
+          {
+            name:"Mumbai",
+            population: 2000000
+          }
+        ]
+      },
+
+      {
+        name:"Gujarat",
+        cities:[
+          {
+            name:"Ahmedabad",
+            population: 45200
+          },
+          {
+            name:"Surat",
+            population: 785000
+          }
+        ]
+      }
+    ]
+    }
+    {
+    name: "India",
+    states:[
+      {
+        name:"Maharashtra",
+        cities:[
+          {
+            name:"Pune",
+            population: 1000000
+          },
+          {
+            name:"Mumbai",
+            population: 2000000
+          }
+        ]
+      },
+
+      {
+        name:"Gujarat",
+        cities:[
+          {
+            name:"Ahmedabad",
+            population: 45200
+          },
+          {
+            name:"Surat",
+            population: 785000
+          }
+        ]
+      }
+    ]
+    }
+  ]
+}
+
+1)find population of all countries
+2)find a city which is having heighest population
+3)find a state which is having heighest population
+
+
+----------------------------------------------------  
+users = [
+  {
+    id:
+    name:
+    age:
+    isMarried:true
+    chid:2
+    gender:
+    hobbies:[
+      {
+        name:
+        duration:
+      },
+      {
+        name:
+        duration:
+      }
+    ]
+  },
+  {
+    id:
+    name:
+    age:
+    isMarried:true
+    chid:2
+    gender:
+    hobbies:[
+      {
+        name:
+        duration:
+      },
+      {
+        name:
+        duration:
+      }
+    ]
+  },
+]
+
+
+find a user who is having heighest age
+find a user who is having heighest number of hobbies
+find a user who is having heighest number of hobbies and he is married
+find a user who is married and not having any child
+find a user who is married and  having any child
